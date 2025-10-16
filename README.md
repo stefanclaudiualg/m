@@ -1,2 +1,2 @@
 # Stefan Claudiu Al-Gareeb
-## Hola soy estudiante de DMA
+## Desarollador de Aplicaciones Multiplataforma
